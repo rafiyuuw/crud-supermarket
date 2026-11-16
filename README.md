@@ -1,6 +1,6 @@
 # SISTEM MANAJEMEN SUPERMARKET
 
-Aplikasi web manajemen supermarket berbasis relasional database MySQL dan PHP Native (PHP 8+) yang dirancang khusus sebagai media pembelajaran basis data untuk siswa SMK Rekayasa Perangkat Lunak (RPL) dan mahasiswa ilmu komputer.
+Aplikasi web manajemen supermarket berbasis relasional database MySQL dan PHP Native (PHP 8+) yang dirancang khusus sebagai media pembelajaran basis data untuk siswa SMK Rekayasa Perangkat Lunak (RPL).
 
 Aplikasi ini mendemonstrasikan implementasi nyata dari konsep basis data relasional: **Primary Key**, **Foreign Key**, **Constraint Integrity**, **Normalisasi Database**, serta operasi **CRUD (Create, Read, Update, Delete)** yang berfungsi penuh pada **tepat 25 tabel database**.
 
